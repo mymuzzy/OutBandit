@@ -16,21 +16,39 @@ One of the key advantages of OutBandit is its ability to test applications built
 OutBandit can perform a wide range of attacks, including below attacks:
 
 Command Injection
+
 XML External Entity
+
 SQL Injection
+
 Server-Side JavaScript Injection
+
 Server-Side Includes
+
 Server-Side Template Injection
+
 Remote File Inclusion
+
 Open Redirection
+
 Simple Mail Transfer Protocol
+
 Code Injection
+
 Deserialization
+
 Expression Language Injection
+
 
 Another key feature of OutBandit is its ability to work with both internet and intranet facing applications. It can also send both HTTP and DNS requests which is uniqueness about this tool.
 
 Overall, OutBandit is a powerful and comprehensive tool for testing the security of web applications. Its ability to work with different technologies and network environments makes it an ideal asset for security professionals looking to ensure the security of their applications and infrastructure. By identifying vulnerabilities that may be missed by other testing methods, OutBandit can help organizations stay ahead of the latest cyber threats and keep their systems and applications secure.
 
+
+# Feedback and Queries
+
+If you want to share about issues and problem, feel free to share with me on LinkedIn
+
+"https://www.linkedin.com/in/hussenimuzkkir/" 
 
 Thank you
