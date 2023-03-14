@@ -1,7 +1,14 @@
 # OutBandit
 OutBandit is a user-friendly Burp Suite extension written in Java, used by security professionals to test web applications for out of band exfiltration attacks on Windows and Linux environments, and to identify and exploit vulnerabilities.
 
-Installtion and Usage is moved to: https://muzkkir.com
+Download from here
+
+https://github.com/mymuzzy/OutBandit/releases/tag/v1.0.0
+
+Detailed installtion and Usage:
+
+https://muzkkir.com
+
 
 ![1](https://raw.githubusercontent.com/mymuzzy/OutBandit/main/OutBandit.png)
 
