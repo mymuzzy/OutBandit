@@ -7,8 +7,7 @@ https://github.com/mymuzzy/OutBandit/releases/tag/v1.0.0
 
 Detailed installtion and Usage:
 
-https://muzkkir.com
-
+https://muzkkir.com/2023/03/14/outbandit-usage/
 
 ![1](https://raw.githubusercontent.com/mymuzzy/OutBandit/main/OutBandit.png)
 
