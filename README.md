@@ -5,7 +5,7 @@ Download from here
 
 https://github.com/mymuzzy/OutBandit/releases/tag/v1.0.0
 
-Detailed installtion and Usage:
+Detail installtion and Usage:
 
 https://muzkkir.com/2023/03/14/outbandit-usage/
 
